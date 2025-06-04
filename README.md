@@ -20,6 +20,6 @@ Contenido:
         Anexo 3 y 4.pdf
         Anexo 5.pdf
         Anexo 6.pdf
-        Video explicativo 
+        Video explicativo: https://www.youtube.com/watch?v=7iczvzm9u_c 
 
-Repositorio: https://github.com/juanegelos/TP-INTEGRADORES-TUPaD.git
+Repositorio: https://github.com/juanegelos/TP-INTEGRADOR-AySO-TUPaD.git
